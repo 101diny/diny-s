@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Abdelali Belharrouch | Marketing & Finance</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f7f7f7;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #0f766e, #115e59);
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin-bottom: 10px;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.1rem;
+      max-width: 700px;
+      margin: auto;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #0f766e;
+      margin-bottom: 20px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    }
+    .card h3 {
+      margin-top: 0;
+      color: #115e59;
+    }
+    footer {
+      background: #111827;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    a {
+      color: #22c55e;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .availability {
+      background: #ecfeff;
+      border-left: 5px solid #0f766e;
+      padding: 15px;
+      margin-top: 20px;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Abdelali Belharrouch</h1>
+  <p>Digital Marketer & E-commerce Strategist | Sharing practical marketing & finance tips to help brands and individuals grow smarter.</p>
+</header>
+
+<section>
+  <h2>My Skills</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Digital Marketing</h3>
+      <p>Facebook & TikTok Ads, copywriting, product positioning, and conversion-focused content strategies.</p>
+    </div>
+    <div class="card">
+      <h3>E-commerce</h3>
+      <p>Store creation, COD strategies, product research, and scaling online businesses.</p>
+    </div>
+    <div class="card">
+      <h3>Finance Basics</h3>
+      <p>Budgeting, mindset around money, and simple financial principles for entrepreneurs.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>My Work</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Ad Campaigns</h3>
+      <p>Created high-performing ad copies and video scripts for physical products in MENA markets.</p>
+    </div>
+    <div class="card">
+      <h3>Brand Projects</h3>
+      <p>Worked on personal and client brands focusing on trust, simplicity, and long-term growth.</p>
+    </div>
+    <div class="card">
+      <h3>Content Strategy</h3>
+      <p>Instagram & TikTok content ideas that educate, engage, and sell without heavy ad spend.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Marketing & Finance Tips</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Marketing Tip</h3>
+      <p>Don't sell products, sell outcomes. People buy solutions, emotions, and results.</p>
+    </div>
+    <div class="card">
+      <h3>Finance Tip</h3>
+      <p>Track every expense. What you measure, you can improve and scale.</p>
+    </div>
+    <div class="card">
+      <h3>Mindset Tip</h3>
+      <p>Consistency beats motivation. Small daily actions create massive long-term results.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Contact & Availability</h2>
+  <div class="card">
+    <p>Interested in working together or just want to connect?</p>
+    <p>Email: <a href="mailto:belharrouchabdelali2@gmail.com">belharrouchabdelali2@gmail.com</a></p>
+    <p>Instagram: <a href="#">@abelharroch</a></p>
+
+    <div class="availability">
+      <strong>Availability:</strong>
+      <p>Open for freelance projects, consultations, and collaborations.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Abdelali Belharrouch — Build smart. Grow strong.</p>
+</footer>
+
+</body>
+</html>
